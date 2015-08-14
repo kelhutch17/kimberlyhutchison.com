@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<?php include("includes/header.includes.php"); ?>
+</head>
+<body>
+	<!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
+	<?php include("includes/nav.includes.php"); ?>
+
+	<div class="container-fluid">
+		<div class="row">
+			<!-- Left Column Here -->
+			<div class="col-md-1">
+				<ul class="no-bullets">
+					<li><a href="mailto:kimmhutch@gmail.com" class="email">kimmhutch@gmail.com<span></span></a></li>
+					<li><a href="https://instagram.com/_kimhutch" class="instagram">Makeup Instagram</a></li>
+					<li><a href="https://twitter.com/Kimbosliicee" class="twitter">Twitter</a></li>
+					<li><a href="https://www.facebook.com/kim.hutch.54" class="facebook">Facebook<span></span></a></li>
+					<li><a href="https://www.linkedin.com/pub/kim-hutchison/84/846/b59" class="linkedin">Linkedin<span></span></a></li>
+					<li><a href="http://blog.kimberlyhutchison.com/" class="tumblr">Makeup Blog<span></span></a></li> 
+				</ul>
+			</div>
+			<!-- Middle Column Here -->
+			<div class="col-md-6">
+				<img width="500" height="333" src="/img/Misc/application.jpg">
+			</div>
+			<!-- Right Column Here -->
+			<div class="col-md-5">
+				<h3>Kimberly Hutchison</h3>
+				<h4>kimhutchison.mua@gmail.com</h4>
+				<h4>484-678-0575</h4>
+				<br>
+			</div>
+		</div>
+		<?php include("includes/footer.includes.php") ?>
+	</div>
+	<!-- /container -->
+</body>
+</html>

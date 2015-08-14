@@ -1,0 +1,36 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.splashmakeup {
+	background: url('http://imgur.com/jA4Cgyq.jpg') no-repeat center fixed;	
+	background-size: cover;
+}
+
+.splashmakeup .splashtext {
+	background:rgba(255,255,255,0.8);
+	border-radius: 10px; 
+	-moz-border-radius: 10px; 
+	-webkit-border-radius: 10px;
+	text-align: center; 
+}
+
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+	
+	background: url('/img/eight_horns.png') repeat scroll;
+}
+
+.no-bullets {
+    list-style-type: none;
+}
+
+
+
+
+
+

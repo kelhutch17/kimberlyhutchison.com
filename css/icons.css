@@ -1,0 +1,494 @@
+/* --------------- addthis */
+.addthis {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/addthis.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- appnet */
+.appnet {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/appnet.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- behance */
+.behance {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/behance.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- blogger */
+.blogger {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/blogger.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- deviantart */
+.deviantart {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/deviantart.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- digg */
+.digg {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/digg.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- dribbble */
+.dribbble {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/dribbble.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- email */
+.email {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/email.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- etsy */
+.etsy {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/etsy.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- facebook */
+.facebook {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/facebook.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- flickr */
+.flickr {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/flickr.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- foursquare */
+.foursquare {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/foursquare.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- github */
+.github {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/github.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- googleplus */
+.googleplus {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/googleplus.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- hangouts */
+.hangouts {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/hangouts.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- indiegogo */
+.indiegogo {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/indiegogo.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- instagram */
+.instagram {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/instagram.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- kickstarter */
+.kickstarter {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/kickstarter.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- lastfm */
+.lastfm {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/lastfm.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- like */
+.like {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/like.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- linkedin */
+.linkedin {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/linkedin.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- livejournal */
+.livejournal {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/livejournal.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- mixcloud */
+.mixcloud {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/mixcloud.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- myspace */
+.myspace {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/myspace.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- myspace2 */
+.myspace2 {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/myspace2.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- orkut */
+.orkut {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/orkut.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- paypal */
+.paypal {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/paypal.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- picasa */
+.picasa {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/picasa.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- pinterest */
+.pinterest {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/pinterest.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- reddit */
+.reddit {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/reddit.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- rss */
+.rss {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/rss.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- sharethis */
+.sharethis {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/sharethis.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- skype */
+.skype {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/skype.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- soundcloud */
+.soundcloud {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/soundcloud.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- spotify */
+.spotify {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/spotify.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- stackoverflow */
+.stackoverflow {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/stackoverflow.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- steam */
+.steam {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/steam.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- stumbleupon */
+.stumbleupon {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/stumbleupon.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- tumblr */
+.tumblr {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/tumblr.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- twitter */
+.twitter {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/twitter.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- vimeo */
+.vimeo {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/vimeo.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- vk */
+.vk {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/vk.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- wordpress */
+.wordpress {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/wordpress.png) no-repeat;
+	overflow:hidden;
+}
+
+/* --------------- yelp */
+.yelp {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/yelp.png) no-repeat;
+	overflow:hidden;
+}
+ 
+/* --------------- youtube */
+.youtube {
+	display: inline-block;
+	position: relative;
+	text-indent: -9999px;
+	width: 32px;
+	height: 32px;
+	background:url(icons/youtube.png) no-repeat;
+	overflow:hidden;
+}
