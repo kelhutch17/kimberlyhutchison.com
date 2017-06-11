@@ -12,11 +12,11 @@
 			</div>
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="/">Beauty</a></li>
-					<li><a href="/specialEffects.php">Special Effects</a></li>
-					<li><a href="/print.php">Print</a></li>
-					<li><a href="/avantGarde.php">Avant Garde</a></li>
-					<li><a href="/contact.php">Contact</a></li>
+					<li><a href="./">Print</a></li>
+					<li><a href="./beauty.html">Beauty</a></li>
+					<li><a href="./specialEffects.html">Special Effects</a></li>
+					<li><a href="./film.html">Film</a></li>
+					<li><a href="./contact.html">Contact</a></li>
 				</ul>
 			</div><!-- /.navbar-collapse -->
 		</div>
